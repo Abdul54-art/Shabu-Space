@@ -1,4 +1,4 @@
-# 🍲 Shabu Space Booking System
+# 🍲 Shabu Space System
  **ระบบจองคิวออนไลน์อัจฉริยะ เชื่อมต่อ Google Sheets แบบ Real-time** 🚀
 
 ### ✨ คุณสมบัติ
